@@ -11,11 +11,17 @@
 
 ## 💫 About Me
 
-- 🎓 BS Information Technology Student  
+<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="180"/>
+
+- 🎓 BS Information Technology Student passionate about building modern digital experiences  
 - 🏅 DOST-SEI Scholar & Graduating Cum Laude  
-- 💻 Passionate about Web Development and UI/UX Design  
-- 🌱 Currently learning Full Stack Development  
+- 🎨 Focused on UI/UX Design, Web Development, and creative problem-solving  
+- 💻 Creating responsive, clean, and user-friendly websites and systems  
+- 🌱 Currently improving my skills in Full Stack Development  
+- 🚀 Driven by continuous learning and innovation  
 - ⚡ Fun Fact: I debug more than I sleep 😆  
+
+<br clear="right"/>
 
 ---
 
@@ -49,5 +55,5 @@
   <img src="https://img.shields.io/badge/Database-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" />
   <img src="https://img.shields.io/badge/UI%2FUX-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E" />
 </p>
-```
+
 
