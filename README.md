@@ -11,23 +11,19 @@
 
 ## 💫 About Me
 
-<div align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180"/>
-</div>
+<img align="right" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=F7A41D&center=true&vCenter=true&width=450&lines=Passionate+about+Web+Development+💻;Creating+Clean+and+Modern+UI%2FUX+🎨;Always+Learning+New+Technologies+🚀;Turning+Ideas+Into+Reality+⚡" />
-</p>
+- 🎓 <b>BS Information Technology Student</b> passionate about building <i>modern and impactful digital experiences</i>  
+- 🏅 <b>DOST-SEI Scholar</b> & <b>Graduating Cum Laude</b> with a strong dedication to excellence  
+- 🎨 Focused on <b>UI/UX Design</b>, <b>Frontend Development</b>, and crafting visually appealing interfaces  
+- 💻 Building <i>responsive</i>, <i>clean</i>, and <i>user-friendly</i> websites and systems  
+- 🌱 Currently expanding my knowledge in <b>Full Stack Development</b> and modern technologies  
+- 🚀 Driven by <b>creativity</b>, <b>continuous learning</b>, and innovation in tech  
+- ⚡ Fun Fact: <i>I debug more than I sleep 😆</i>  
 
-<p align="center">
-  🎓 <b>BS Information Technology Student</b><br>
-  🏅 <b>DOST-SEI Scholar</b> & <b>Graduating Cum Laude</b><br>
-  💻 Passionate about <b>Web Development</b> and <b>UI/UX Design</b><br>
-  🌱 Currently exploring <b>Full Stack Development</b><br>
-  ⚡ Fun Fact: <i>I debug more than I sleep 😆</i>
-</p>
+<br clear="right"/>
+```
 
----
 
 ## 🌐 Connect With Me
 
