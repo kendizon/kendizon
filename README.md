@@ -40,8 +40,6 @@
 </tr>
 </table>
 
-<br clear="right"/>
-
 ## 🌐 Connect With Me
 
 <p align="center">
