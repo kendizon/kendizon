@@ -1,19 +1,7 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Ken+Dizon+👋" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Ken+Dizon+👋;Aspiring+Full+Stack+Developer+🚀;UI%2FUX+Designer+🎨;Always+Learning+New+Things+💻" alt="Typing SVG" />
 </h1>
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FF4D4D&center=true&vCenter=true&width=500&lines=Aspiring+Full+Stack+Developer+🚀" alt="Typing SVG" />
-</h3>
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=UI%2FUX+Designer+🎨" alt="Typing SVG" />
-</h3>
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF9F&center=true&vCenter=true&width=500&lines=Always+Learning+New+Things+💻" alt="Typing SVG" />
-</h3>
 
 <h3 align="center">
   🚀 Aspiring Full Stack Developer | 🎨 UI/UX Designer | 💻 Information Technology
