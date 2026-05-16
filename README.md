@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ken</h1>
 
-<!--
-**kendizon/kendizon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Frontend Developer | UI/UX Designer
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+I create simple but high-quality web experiences.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+- 🌱 I’m currently learning **React & UI/UX Design**
+- 💼 Portfolio: https://yourportfolio.com
+- 📫 Email: your@email.com
+- 📄 Resume: your-resume-link
+
+---
+
+### Connect with me:
+
+<p>
+<a href="https://linkedin.com/in/yourname">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://facebook.com/yourname">
+<img src="https://skillicons.dev/icons?i=facebook" />
+</a>
+</p>
+
+---
+
+### Languages and Tools:
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,figma,tailwind,typescript,nodejs,mongodb,mysql,php" />
+</p>
