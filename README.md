@@ -68,9 +68,13 @@
 
 </td>
 
-<!-- GIF (UNCHANGED) -->
 <td valign="top" width="190">
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180"/>
+<img 
+    src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" 
+    width="180"
+    height="245"
+    style="display:block; object-fit:cover;"
+/>
 </td>
 
 </tr>
