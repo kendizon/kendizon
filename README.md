@@ -41,11 +41,14 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats
+## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kendizon&theme=tokyonight&hide_border=true&show_icons=true" height="135" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kendizon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kendizon&theme=tokyonight&hide_border=true" height="135" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kendizon&theme=tokyonight&hide_border=true&background=0D1117" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kendizon&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </p>
