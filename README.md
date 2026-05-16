@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  🚀 Aspiring Full Stack Developer | 🎨 UI/UX Designer | 💻 IT Student
+  🚀 Aspiring Full Stack Developer | 🎨 UI/UX Designer | 💻 Information Technology
 </h3>
 
 ---
@@ -20,7 +20,6 @@
 - ⚡ Fun Fact: <i>I have 8 cats</i>  
 
 <br clear="right"/>
-
 
 ## 🌐 Connect With Me
 
