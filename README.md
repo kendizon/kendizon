@@ -61,5 +61,5 @@
 
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=You+KEN+build+it.+🚀+You+KEN+make+it+happen.+💡+You+KEN+do+it.+⚡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=You+KEN+build+it.+🚀;You+KEN+make+it+happen.+💡;You+KEN+do+it.+⚡" alt="Typing SVG" />
 </h3>
