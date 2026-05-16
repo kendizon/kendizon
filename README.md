@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/01-FFD700?style=for-the-badge&labelColor=FFD700&color=FFD700"/>
 </td>
 <td width="520">
-🎓 <b>BS Information Technology Student</b> passionate about building <i>modern and impactful digital experiences</i>
+🎓 <b>BS Information Technology Graduate</b> passionate about building <i>modern and impactful digital experiences</i>
 </td>
 </tr>
 
@@ -60,7 +60,7 @@
 <img src="https://img.shields.io/badge/05-FFD700?style=for-the-badge&labelColor=FFD700&color=FFD700"/>
 </td>
 <td width="520">
-⚡ Fun Fact: <i>I have 8 cats</i>
+⚡ Fun Fact: <i>I have 8 cats ₍^. .^₎Ⳋ</i>
 </td>
 </tr>
 
