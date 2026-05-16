@@ -16,10 +16,8 @@
 - 🎓 <b>BS Information Technology Student</b> passionate about building <i>modern and impactful digital experiences</i>  
 - 🏅 <b>DOST-SEI Scholar</b> & <b>Graduating Cum Laude</b> with a strong dedication to excellence  
 - 🎨 Focused on <b>UI/UX Design</b>, <b>Frontend Development</b>, and crafting visually appealing interfaces  
-- 💻 Building <i>responsive</i>, <i>clean</i>, and <i>user-friendly</i> websites and systems  
 - 🌱 Currently expanding my knowledge in <b>Full Stack Development</b> and modern technologies  
-- 🚀 Driven by <b>creativity</b>, <b>continuous learning</b>, and innovation in tech  
-- ⚡ Fun Fact: <i>I debug more than I sleep 😆</i>  
+- ⚡ Fun Fact: <i>I have 8 cats</i>  
 
 <br clear="right"/>
 
