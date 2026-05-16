@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Your Name</h1>
 <h3 align="center">🚀 Passionate Developer | Creative Coder | Tech Enthusiast</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;Always+learning+new+things;Building+cool+projects+everyday!;Open+Source+Lover+💙" alt="Typing SVG" />
-</p>
-
 ---
 
 # 💫 About Me:
@@ -60,9 +56,3 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kendizon&theme=tokyonight&hide_border=false&layout=compact" height="180em"/>
 </p>
 
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer"/>
-</p>
