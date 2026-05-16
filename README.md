@@ -14,52 +14,52 @@
 <table>
 <tr>
 
-<!-- INFO SECTION -->
-<td width="600" valign="top">
+<!-- INFO -->
+<td width="760" valign="top">
 
 <table>
 
 <tr>
-<td width="80">
+<td width="85">
 <img src="https://img.shields.io/badge/01-FFD700?style=for-the-badge&labelColor=FFD700&color=FFD700"/>
 </td>
-<td width="520">
+<td width="675">
 🎓 <b>BS Information Technology Student</b> passionate about building <i>modern and impactful digital experiences</i>
 </td>
 </tr>
 
 <tr>
-<td width="80">
+<td width="85">
 <img src="https://img.shields.io/badge/02-FFD700?style=for-the-badge&labelColor=FFD700&color=FFD700"/>
 </td>
-<td width="520">
+<td width="675">
 🏅 <b>DOST-SEI Scholar</b> & <b>Graduating Cum Laude</b> with a strong dedication to excellence
 </td>
 </tr>
 
 <tr>
-<td width="80">
+<td width="85">
 <img src="https://img.shields.io/badge/03-FFD700?style=for-the-badge&labelColor=FFD700&color=FFD700"/>
 </td>
-<td width="520">
+<td width="675">
 🎨 Focused on <b>UI/UX Design</b>, <b>Frontend Development</b>, and crafting visually appealing interfaces
 </td>
 </tr>
 
 <tr>
-<td width="80">
+<td width="85">
 <img src="https://img.shields.io/badge/04-FFD700?style=for-the-badge&labelColor=FFD700&color=FFD700"/>
 </td>
-<td width="520">
+<td width="675">
 🌱 Currently expanding my knowledge in <b>Full Stack Development</b> and modern technologies
 </td>
 </tr>
 
 <tr>
-<td width="80">
+<td width="85">
 <img src="https://img.shields.io/badge/05-FFD700?style=for-the-badge&labelColor=FFD700&color=FFD700"/>
 </td>
-<td width="520">
+<td width="675">
 ⚡ Fun Fact: <i>I have 8 cats</i>
 </td>
 </tr>
@@ -68,9 +68,11 @@
 
 </td>
 
-<!-- GIF (UNCHANGED) -->
-<td valign="top" width="190">
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180"/>
+<!-- GIF -->
+<td width="190" height="100%" valign="top">
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"
+     width="180"
+     height="100%"/>
 </td>
 
 </tr>
