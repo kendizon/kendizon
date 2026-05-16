@@ -22,7 +22,6 @@
 - ⚡ Fun Fact: <i>I debug more than I sleep 😆</i>  
 
 <br clear="right"/>
-```
 
 
 ## 🌐 Connect With Me
