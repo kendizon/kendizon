@@ -13,15 +13,30 @@
 
 <img align="right" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180"/>
 
-<p><b><span style="background-color:#FFD700; padding:2px 6px; border-radius:5px;">01</span></b> 🎓 <b>BS Information Technology Student</b> passionate about building <i>modern and impactful digital experiences</i></p>
+<p>
+<img src="https://img.shields.io/badge/01-FFD700?style=for-the-badge&labelColor=FFD700&color=FFD700"/>
+🎓 <b>BS Information Technology Student</b> passionate about building <i>modern and impactful digital experiences</i>
+</p>
 
-<p><b><span style="background-color:#FFD700; padding:2px 6px; border-radius:5px;">02</span></b> 🏅 <b>DOST-SEI Scholar</b> & <b>Graduating Cum Laude</b> with a strong dedication to excellence</p>
+<p>
+<img src="https://img.shields.io/badge/02-FFD700?style=for-the-badge&labelColor=FFD700&color=FFD700"/>
+🏅 <b>DOST-SEI Scholar</b> & <b>Graduating Cum Laude</b> with a strong dedication to excellence
+</p>
 
-<p><b><span style="background-color:#FFD700; padding:2px 6px; border-radius:5px;">03</span></b> 🎨 Focused on <b>UI/UX Design</b>, <b>Frontend Development</b>, and crafting visually appealing interfaces</p>
+<p>
+<img src="https://img.shields.io/badge/03-FFD700?style=for-the-badge&labelColor=FFD700&color=FFD700"/>
+🎨 Focused on <b>UI/UX Design</b>, <b>Frontend Development</b>, and crafting visually appealing interfaces
+</p>
 
-<p><b><span style="background-color:#FFD700; padding:2px 6px; border-radius:5px;">04</span></b> 🌱 Currently expanding my knowledge in <b>Full Stack Development</b> and modern technologies</p>
+<p>
+<img src="https://img.shields.io/badge/04-FFD700?style=for-the-badge&labelColor=FFD700&color=FFD700"/>
+🌱 Currently expanding my knowledge in <b>Full Stack Development</b> and modern technologies
+</p>
 
-<p><b><span style="background-color:#FFD700; padding:2px 6px; border-radius:5px;">05</span></b> ⚡ Fun Fact: <i>I have 8 cats</i></p>
+<p>
+<img src="https://img.shields.io/badge/05-FFD700?style=for-the-badge&labelColor=FFD700&color=FFD700"/>
+⚡ Fun Fact: <i>I have 8 cats</i>
+</p>
 
 <br clear="right"/>
 
