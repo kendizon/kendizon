@@ -11,66 +11,42 @@
 
 ## 💫 Behind the Code
 
-<table border="0" cellspacing="0" cellpadding="0">
+<table>
 <tr>
 
-<!-- Text Content -->
-<td width="650" valign="top">
-
-<table border="0" cellspacing="0" cellpadding="8">
-
-<tr>
-<td width="70">
-<img src="https://img.shields.io/badge/01-FFD700?style=for-the-badge&labelColor=FFD700&color=FFD700"/>
-</td>
 <td>
-🎓 <b>BS Information Technology Student</b> passionate about building <i>modern and impactful digital experiences</i>
-</td>
+
+<table>
+<tr>
+<td><img src="https://img.shields.io/badge/01-FFD700?style=for-the-badge&labelColor=FFD700&color=FFD700"/></td>
+<td>🎓 <b>BS Information Technology Student</b> passionate about building <i>modern and impactful digital experiences</i></td>
 </tr>
 
 <tr>
-<td width="70">
-<img src="https://img.shields.io/badge/02-FFD700?style=for-the-badge&labelColor=FFD700&color=FFD700"/>
-</td>
-<td>
-🏅 <b>DOST-SEI Scholar</b> & <b>Graduating Cum Laude</b> with a strong dedication to excellence
-</td>
+<td><img src="https://img.shields.io/badge/02-FFD700?style=for-the-badge&labelColor=FFD700&color=FFD700"/></td>
+<td>🏅 <b>DOST-SEI Scholar</b> & <b>Graduating Cum Laude</b> with a strong dedication to excellence</td>
 </tr>
 
 <tr>
-<td width="70">
-<img src="https://img.shields.io/badge/03-FFD700?style=for-the-badge&labelColor=FFD700&color=FFD700"/>
-</td>
-<td>
-🎨 Focused on <b>UI/UX Design</b>, <b>Frontend Development</b>, and crafting visually appealing interfaces
-</td>
+<td><img src="https://img.shields.io/badge/03-FFD700?style=for-the-badge&labelColor=FFD700&color=FFD700"/></td>
+<td>🎨 Focused on <b>UI/UX Design</b>, <b>Frontend Development</b>, and crafting visually appealing interfaces</td>
 </tr>
 
 <tr>
-<td width="70">
-<img src="https://img.shields.io/badge/04-FFD700?style=for-the-badge&labelColor=FFD700&color=FFD700"/>
-</td>
-<td>
-🌱 Currently expanding my knowledge in <b>Full Stack Development</b> and modern technologies
-</td>
+<td><img src="https://img.shields.io/badge/04-FFD700?style=for-the-badge&labelColor=FFD700&color=FFD700"/></td>
+<td>🌱 Currently expanding my knowledge in <b>Full Stack Development</b> and modern technologies</td>
 </tr>
 
 <tr>
-<td width="70">
-<img src="https://img.shields.io/badge/05-FFD700?style=for-the-badge&labelColor=FFD700&color=FFD700"/>
-</td>
-<td>
-⚡ Fun Fact: <i>I have 8 cats</i>
-</td>
+<td><img src="https://img.shields.io/badge/05-FFD700?style=for-the-badge&labelColor=FFD700&color=FFD700"/></td>
+<td>⚡ Fun Fact: <i>I have 8 cats</i></td>
 </tr>
-
 </table>
 
 </td>
 
-<!-- GIF -->
-<td width="130" valign="top">
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120"/>
+<td valign="top" width="190">
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180"/>
 </td>
 
 </tr>
