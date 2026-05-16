@@ -11,7 +11,9 @@
 
 ## 💫 Behind the Code
 
-<img align="right" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180"/>
+<table>
+<tr>
+<td width="80%">
 
 <table>
 <tr>
@@ -37,6 +39,15 @@
 <tr>
 <td><img src="https://img.shields.io/badge/05-FFD700?style=for-the-badge&labelColor=FFD700&color=FFD700"/></td>
 <td>⚡ Fun Fact: <i>I have 8 cats</i></td>
+</tr>
+</table>
+
+</td>
+
+<td valign="top">
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180"/>
+</td>
+
 </tr>
 </table>
 
