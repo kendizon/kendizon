@@ -11,7 +11,7 @@
 
 ## 💫 About Me
 
-<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="180"/>
+<img align="right" src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="180"/>
 
 - 🎓 BS Information Technology Student passionate about building modern digital experiences  
 - 🏅 DOST-SEI Scholar & Graduating Cum Laude  
