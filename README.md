@@ -11,20 +11,20 @@ I create simple but high-quality web experiences.
 ---
 
 - 🌱 I’m currently learning **React & UI/UX Design**
-- 💼 Portfolio: https://yourportfolio.com
-- 📫 Email: your@email.com
-- 📄 Resume: your-resume-link
+- 💼 Portfolio: https://kendizon.framer.website/
+- 📫 Email: dizonjkc@gmail.com
+- 📄 Resume: -
 
 ---
 
 ### Connect with me:
 
 <p>
-<a href="https://linkedin.com/in/yourname">
+<a href="https://linkedin.com/in/jkcdizon">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://facebook.com/yourname">
+<a href="https://facebook.com/kenxdizon">
 <img src="https://skillicons.dev/icons?i=facebook" />
 </a>
 </p>
@@ -34,5 +34,5 @@ I create simple but high-quality web experiences.
 ### Languages and Tools:
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,figma,tailwind,typescript,nodejs,mongodb,mysql,php" />
+<img src="https://skillicons.dev/icons?i=html,css,js,mysql,php,java,figma,canva" />
 </p>
