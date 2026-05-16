@@ -11,46 +11,34 @@
 
 ## 💫 Behind the Code
 
-<table>
-<tr>
+<img align="right" width="160" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"/>
 
-<td>
+<p>
+<img src="https://img.shields.io/badge/01-FFD700?style=for-the-badge&labelColor=FFD700&color=FFD700" />
+🎓 <b>BS Information Technology Student</b> passionate about building <i>modern and impactful digital experiences</i>
+</p>
 
-<table>
-<tr>
-<td><img src="https://img.shields.io/badge/01-FFD700?style=for-the-badge&labelColor=FFD700&color=FFD700"/></td>
-<td>🎓 <b>BS Information Technology Student</b> passionate about building <i>modern and impactful digital experiences</i></td>
-</tr>
+<p>
+<img src="https://img.shields.io/badge/02-FFD700?style=for-the-badge&labelColor=FFD700&color=FFD700" />
+🏅 <b>DOST-SEI Scholar</b> & <b>Graduating Cum Laude</b> with a strong dedication to excellence
+</p>
 
-<tr>
-<td><img src="https://img.shields.io/badge/02-FFD700?style=for-the-badge&labelColor=FFD700&color=FFD700"/></td>
-<td>🏅 <b>DOST-SEI Scholar</b> & <b>Graduating Cum Laude</b> with a strong dedication to excellence</td>
-</tr>
+<p>
+<img src="https://img.shields.io/badge/03-FFD700?style=for-the-badge&labelColor=FFD700&color=FFD700" />
+🎨 Focused on <b>UI/UX Design</b>, <b>Frontend Development</b>, and crafting visually appealing interfaces
+</p>
 
-<tr>
-<td><img src="https://img.shields.io/badge/03-FFD700?style=for-the-badge&labelColor=FFD700&color=FFD700"/></td>
-<td>🎨 Focused on <b>UI/UX Design</b>, <b>Frontend Development</b>, and crafting visually appealing interfaces</td>
-</tr>
+<p>
+<img src="https://img.shields.io/badge/04-FFD700?style=for-the-badge&labelColor=FFD700&color=FFD700" />
+🌱 Currently expanding my knowledge in <b>Full Stack Development</b> and modern technologies
+</p>
 
-<tr>
-<td><img src="https://img.shields.io/badge/04-FFD700?style=for-the-badge&labelColor=FFD700&color=FFD700"/></td>
-<td>🌱 Currently expanding my knowledge in <b>Full Stack Development</b> and modern technologies</td>
-</tr>
+<p>
+<img src="https://img.shields.io/badge/05-FFD700?style=for-the-badge&labelColor=FFD700&color=FFD700" />
+⚡ Fun Fact: <i>I have 8 cats</i>
+</p>
 
-<tr>
-<td><img src="https://img.shields.io/badge/05-FFD700?style=for-the-badge&labelColor=FFD700&color=FFD700"/></td>
-<td>⚡ Fun Fact: <i>I have 8 cats</i></td>
-</tr>
-</table>
-
-</td>
-
-<td valign="top" width="190">
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180"/>
-</td>
-
-</tr>
-</table>
+<br clear="right"/>
 
 ## 🌐 Connect With Me
 
