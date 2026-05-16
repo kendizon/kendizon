@@ -42,15 +42,13 @@
 <div align="center">
 
 ### 🌐 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
 
 ### ⚙️ Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,php,mysql" />
+<img src="https://skillicons.dev/icons?i=php,mysql" />
 
 ### 🛠️ Tools & Languages
-<img src="https://skillicons.dev/icons?i=python,java,git,github,figma,vscode" />
+<img src="https://skillicons.dev/icons?i=java,c#,github,figma,vscode" />
 
 </div>
 
----
-```
