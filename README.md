@@ -51,54 +51,15 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="180em" />
+<img src="https://github-readme-stats.vercel.app/api?username=kendizon&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="180em" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=false" height="180em" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kendizon&theme=tokyonight&hide_border=false" height="180em" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight&hide_border=false&layout=compact" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kendizon&theme=tokyonight&hide_border=false&layout=compact" height="180em"/>
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
----
-
-# 🔥 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-</p>
-
----
-
-# 🐍 Snake Eating My Contributions
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="Snake animation" />
-</p>
-
----
-
-# ✨ Random Dev Quote
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-# 🎵 Spotify Playing
-
-<p align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=kenken&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
-</p>
 
 ---
 
