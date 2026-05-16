@@ -60,24 +60,6 @@
 </p>
 
 
-## 🌟 Closing Note
-
-<p align="center">
-  <b>“You KEN build it. 🚀”</b><br/>
-  Turn imagination into reality through code, creativity, and consistency.  
-</p>
-
-<p align="center">
-  <b>“You KEN make it happen. 💡”</b><br/>
-  Every idea starts small — but persistence turns it into something meaningful.  
-</p>
-
-<p align="center">
-  <b>“You KEN do it. ⚡”</b><br/>
-  Keep learning, keep building, and keep pushing forward.  
-</p>
-
-<p align="center">
-  <i>Crafting digital experiences one line of code at a time — Ken Dizon</i> ✨
-</p>
-
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=You+KEN+build+it.+🚀+You+KEN+make+it+happen.+💡+You+KEN+do+it.+⚡" alt="Typing SVG" />
+</h3>
