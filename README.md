@@ -13,7 +13,8 @@
 
 <table>
 <tr>
-<td width="80%">
+
+<td>
 
 <table>
 <tr>
@@ -44,7 +45,7 @@
 
 </td>
 
-<td valign="top">
+<td valign="top" width="190">
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180"/>
 </td>
 
