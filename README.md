@@ -60,3 +60,24 @@
 </p>
 
 
+## 🌟 Closing Note
+
+<p align="center">
+  <b>“You KEN build it. 🚀”</b><br/>
+  Turn imagination into reality through code, creativity, and consistency.  
+</p>
+
+<p align="center">
+  <b>“You KEN make it happen. 💡”</b><br/>
+  Every idea starts small — but persistence turns it into something meaningful.  
+</p>
+
+<p align="center">
+  <b>“You KEN do it. ⚡”</b><br/>
+  Keep learning, keep building, and keep pushing forward.  
+</p>
+
+<p align="center">
+  <i>Crafting digital experiences one line of code at a time — Ken Dizon</i> ✨
+</p>
+
