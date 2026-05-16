@@ -39,16 +39,15 @@
 
 ## 💻 Tech Stack
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,php,mysql,java,cs,github,figma,vscode" />
+</p>
 
-### 🌐 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
-
-### ⚙️ Backend & Database
-<img src="https://skillicons.dev/icons?i=php,mysql" />
-
-### 🛠️ Tools & Languages
-<img src="https://skillicons.dev/icons?i=java,c#,github,figma,vscode" />
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/Backend-0D1117?style=for-the-badge&logo=php&logoColor=777BB4" />
+  <img src="https://img.shields.io/badge/Database-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/UI%2FUX-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+</p>
+```
 
