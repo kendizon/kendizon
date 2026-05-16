@@ -1,58 +1,51 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
-<h3 align="center">🚀 Passionate Developer | Creative Coder | Tech Enthusiast</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+John+Kenneth+Dizon+👋;Aspiring+Full+Stack+Developer+🚀;UI%2FUX+Designer+🎨;Always+Learning+New+Things+💻" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">🚀 Aspiring Full Stack Developer | 🎨 UI/UX Designer | 💻 IT Student</h3>
 
 ---
 
-# 💫 About Me:
-🎓 Student & Aspiring Software Developer  
-💻 I love building websites, apps, and creative projects  
-🚀 Currently learning Full Stack Development  
-🎯 Goal: Become a successful developer someday  
-⚡ Fun Fact: I debug more than I sleep 😆
+# 💫 About Me
+
+- 🎓 BS Information Technology Student  
+- 🏅 DOST-SEI Scholar & Graduating Cum Laude  
+- 💻 Passionate about Web Development and UI/UX Design  
+- 🌱 Currently learning Full Stack Development  
+- ⚡ Fun Fact: I debug more than I sleep 😆  
 
 ---
 
-# 🌐 Connect With Me:
-
-<p align="left">
-<a href="https://facebook.com/YOUR_USERNAME" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=facebook" height="40" />
-</a>
-
-<a href="https://instagram.com/YOUR_USERNAME" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
-</a>
-
-<a href="https://discord.com/users/YOUR_ID" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=discord" height="40" />
-</a>
-
-<a href="mailto:yourgmail@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
-</a>
-</p>
-
----
-
-# 💻 Tech Stack:
+# 🌐 Connect With Me
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,php,python,java,c,cpp,cs,git,github,vscode,figma,tailwind,firebase" />
-
+  <a href="https://facebook.com/YOUR_USERNAME" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" height="40" />
+  </a>
+  
+  <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  </a>
+  
+  <a href="mailto:yourgmail@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
 </p>
 
 ---
 
-# 📊 GitHub Stats:
+# 💻 Tech Stack
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kendizon&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="180em" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kendizon&theme=tokyonight&hide_border=false" height="180em" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,php,mysql,python,java,git,github,figma,tailwind" />
 </p>
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kendizon&theme=tokyonight&hide_border=false&layout=compact" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kendizon&theme=tokyonight&hide_border=true&show_icons=true" height="165" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kendizon&theme=tokyonight&hide_border=true" height="165" />
 </p>
-
