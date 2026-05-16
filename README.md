@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://facebook.com/YOUR_USERNAME" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" height="40" />
+  <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" />
   </a>
   
   <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
