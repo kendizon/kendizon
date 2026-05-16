@@ -27,20 +27,24 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://facebook.com/YOUR_USERNAME" target="_blank">
+  <a href="https://facebook.com/kenxdizon" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 
-  <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
+  <a href="https://instagram.com/kendizon_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
-  <a href="mailto:yourgmail@gmail.com">
+  <a href="https://linkedin.com/in/jkcdizon" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:dizonjkc@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+```
 
----
 
 ## 💻 Tech Stack
 
