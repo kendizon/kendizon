@@ -14,7 +14,7 @@
 <table>
 <tr>
 
-<!-- INFO SECTION -->
+<!-- INFO SECTION --> 
 <td width="600" valign="top">
 
 <table>
