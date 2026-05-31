@@ -108,7 +108,7 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,laravel,tailwind,php,mysql,java,cs,github,figma,vscode,n8n" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,laravel,tailwind,php,mysql,java,cs,github,figma,vscode," />
 </p>
 
 <p align="center">
