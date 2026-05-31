@@ -1,10 +1,10 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Ken+Dizon+👋;Aspiring+Full+Stack+Developer+🚀;UI%2FUX+Designer+🎨;Always+Learning+New+Things+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Ken+Dizon+👋;Web+Developer+🚀;UI%2FUX+Designer+🎨;Always+Learning+New+Things+💻" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">
-  🚀 Aspiring Full Stack Developer | 🎨 UI/UX Designer | 💻 Information Technology
+  🚀 Web Developer | 🎨 UI/UX Designer | 💻 Information Technology
 </h3>
 
 ---
